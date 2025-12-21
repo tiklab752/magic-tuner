@@ -21,9 +21,9 @@
     "input_hint": "Paste Code Here"
   },
   "theme": {
-    "accent_color": "#FF3F3F3F",
+    "accent_color": "#FF000000",
     "text_color": "#FFFFFFFF",
-    "btn_stroke_color": "FF000000"
+    "btn_stroke_color": "#FF000000"
   },
   "time_settings": {
     "api_url": "http://worldtimeapi.org/api/timezone/",
