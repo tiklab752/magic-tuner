@@ -13,7 +13,7 @@
   },
   "ui_text": {
     "dialog_title": "DPMods",
-    "dialog_subtitle": "Device Verification Required",
+    "dialog_subtitle": "Device Activation Required",
     "btn_get_key": "Get Code",
     "btn_login": "Activate",
     "btn_admin": "Tutorial",
@@ -21,9 +21,9 @@
     "input_hint": "Paste Code Here"
   },
   "theme": {
-    "accent_color": "#FF6200EE",
+    "accent_color": "#FF3F3F3F",
     "text_color": "#FFFFFFFF",
-    "btn_stroke_color": "#FF9D46FF"
+    "btn_stroke_color": "#FF3F3F3F"
   },
   "time_settings": {
     "api_url": "http://worldtimeapi.org/api/timezone/",
