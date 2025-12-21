@@ -21,7 +21,7 @@
     "input_hint": "Paste Code Here"
   },
   "theme": {
-    "accent_color": "#FF000000",
+    "accent_color": "#FF3F3F3F",
     "text_color": "#FFFFFFFF",
     "btn_stroke_color": "#FFFFFFFF"
   },
