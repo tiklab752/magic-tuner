@@ -23,7 +23,7 @@
   "theme": {
     "accent_color": "#FF000000",
     "text_color": "#FFFFFFFF",
-    "btn_stroke_color": "#FF3F3F3F"
+    "btn_stroke_color": "#FFFFFFFF"
   },
   "time_settings": {
     "api_url": "http://worldtimeapi.org/api/timezone/",
